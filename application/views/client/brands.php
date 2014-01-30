@@ -1,3 +1,5 @@
+<!--<pre>-->
+<? //print_r($brands); die;?>
 <div id="all_brands">
     <? foreach ($brands as $brand) { ?>
         <div class="brand_one">
@@ -7,8 +9,10 @@
                 </a>
             </div>
             <div>
-                <p><? echo ucfirst(strtolower($brand['descr'])); ?></p>
+                <p><? echo ucfirst(strtolower($brand['img_alt'])); ?></p>
+                <p><a href="/brands/<?= $brand['translit']; ?>">Подробнее...</a></p>
             </div>
+            
         </div>
     <? } ?>
 </div>
