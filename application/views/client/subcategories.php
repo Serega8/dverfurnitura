@@ -2,6 +2,9 @@
 
     <? foreach ($categories as $category) { ?>
         <?if ($category['translit_name'] == $level2){ ?>
+    <!--вывод названия категории-->
+            <?=$category['category_name'];?> 
+     <!--вывод названия категории-->
             <img src="<?= $category['img_url']; ?>" alt="<?= $category['img_alt']; ?>" title="<?= $category['img_title']; ?>" class="main-photo" />
          <? } ?>
     <? } ?>

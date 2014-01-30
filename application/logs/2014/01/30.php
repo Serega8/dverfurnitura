@@ -652,3 +652,423 @@
 #3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
 #4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
 #5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:41:09 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:41:09 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:41:29 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:41:29 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:41:32 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:41:32 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:42:29 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:42:29 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:42:31 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:42:31 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:42:57 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:42:57 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:03 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:03 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:10 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:10 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:15 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:15 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:17 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:17 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:17 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:17 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:18 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:18 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:20 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:20 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:21 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:43:21 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:22 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:22 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:24 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:24 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:29 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:29 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:32 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:32 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:34 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:34 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:42 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:42 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:47 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:47 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:50 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:45:50 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:46:57 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:46:57 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:47:00 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:47:00 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:47:02 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:47:02 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:48:37 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:48:37 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:48:40 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:48:40 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:54:18 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:54:18 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:55:25 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:55:25 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:23 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:23 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:32 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:32 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:43 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:43 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:58 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:56:58 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:57:15 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:57:15 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:57:29 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:57:29 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:59:59 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 21:59:59 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:12 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:12 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:14 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:14 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:46 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:46 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:55 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:00:55 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:02:55 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:02:55 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:02:59 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:02:59 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:01 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:01 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:03 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:03 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:04 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:04 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:06 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:06 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:08 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:08 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:09 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:09 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:10 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:10 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:12 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:12 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:28 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:28 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:31 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:03:31 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:06 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:06 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:08 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:08 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:09 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:09 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:11 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:11 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:12 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:12 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:14 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:14 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:15 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:15 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:19 --- EMERGENCY: View_Exception [ 0 ]: The requested view admin/404 could not be found ~ SYSPATH/classes/Kohana/View.php [ 257 ] in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
+2014-01-30 22:06:19 --- DEBUG: #0 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(137): Kohana_View->set_filename('admin/404')
+#1 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php(30): Kohana_View->__construct('admin/404', NULL)
+#2 /home/intellectit/Документы/проекты/dverfurnitura.local/application/classes/HTTP/Exception/404.php(15): Kohana_View::factory('admin/404')
+#3 /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/Request.php(976): HTTP_Exception_404->get_response()
+#4 /home/intellectit/Документы/проекты/dverfurnitura.local/index.php(112): Kohana_Request->execute()
+#5 {main} in /home/intellectit/Документы/проекты/dverfurnitura.local/system/classes/Kohana/View.php:137
