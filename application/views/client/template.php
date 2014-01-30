@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Magnefic Locks</title>
+        <title>Magnific Locks</title>
         <? foreach ($styles as $style) { ?>
             <?= HTML::style($style); ?>
         <? } ?>
