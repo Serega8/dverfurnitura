@@ -210,6 +210,9 @@ class Controller_Client extends Controller_Template {
                 $view->categories = $categories;
                 $view->sub_categories = $sub;
                 $view->products = $products;
+                //brands
+                $view->brands = ORM::factory('Brands')->get_brand_by_name($level2);
+                //brands
                 $this->template->content = $view;
                 break;
             default :
@@ -252,7 +255,7 @@ class Controller_Client extends Controller_Template {
              * Весь каталог, т.е все главные категории (1-й уровень);
              */
             case 'list_categories':
-                //echo "list_categories";
+                echo "list_categories";
                 $view = View::factory('client/categories');
                 $model = ORM::factory('Categories');
                 $view->categories = $model->list_categories();
@@ -263,7 +266,7 @@ class Controller_Client extends Controller_Template {
 
 
             case 'list_sub_categories':
-                //echo "list_sub_categories";
+                echo "list_sub_categories";
                 $model_sub_categories = ORM::factory('Subcategories');
                 $all_sub_categories = $model_sub_categories->list_sub_categories($level2, true);
                 $all_products = ORM::factory('Products')->list_category_products($level2, true);
@@ -281,7 +284,7 @@ class Controller_Client extends Controller_Template {
 
 
             case 'list_products':
-                //echo "list_products";
+                echo "list_products";
                 $model_products = ORM::factory('Products');
                 $model_sub_categories = ORM::factory('Subcategories');
                 $count = $model_sub_categories->detect_sp($level2, $level3);
