@@ -270,35 +270,7 @@ class Model_Products extends ORM {
         return $products;
     }
 
-//    public function list_products($level2, $level3) {
-//        $products = array();
-//        $model = ORM::factory('Products');
-//        $id_cat = $model->sub_categories->categories->where('status', '!=', '3')->and_where('translit_name', '=', $level2)->find();
-//        $id_cat = $id_cat->id;
-//
-//        $id = $model->sub_categories->where('status', '!=', 3)
-//                ->and_where('sub_translit', '=', $level3)
-//                ->and_where('parent_id', '=', $id_cat)
-//                ->find();
-//        $id = $id->id;
-//        $info = $model->where('status', '!=', '3')
-//                ->and_where('category_id', '=', $id_cat)
-//                ->and_where('sub_category_id', '=', $id)
-//                ->find_all();
-//        foreach ($info as $inf) {
-//            $res['id'] = $inf->id;
-//            $res['product_name'] = $inf->product_name;
-//            $res['translit_name'] = $inf->name_translit;
-//            $res['date'] = $inf->date;
-//            $res['status'] = $inf->status;
-//            $products[] = $res;
-//        }
-//        return $products;
-//    }
-
-
-
-    public function list_products_brands($level2, $client = false) {
+    public function list_products_brands($level2, $client = FALSE, $category = FALSE) {
         if (!$client) {
             $status = 3;
             $op = '!=';
@@ -319,6 +291,7 @@ class Model_Products extends ORM {
         $info = $model->where('status', $op, $status)
                 ->and_where('brand_id', '=', $bid)
                 ->find_all();
+        
         foreach ($info as $inf) {
             $sub_ids[] = $inf->sub_category_id;
             $cat_ids[] = $inf->category_id;
@@ -399,6 +372,7 @@ class Model_Products extends ORM {
             $status = 0;
             $op = '=';
         }
+        
         $id_cat = $model->sub_categories->categories
                         ->where('status', $op, $status)
                         ->and_where('translit_name', '=', $level2)->find();
@@ -420,7 +394,7 @@ class Model_Products extends ORM {
 //        $zavod_id = $zavod_id->id;
 //        $col_id = $model_det1->where('key', '=', 'Коллекция')->and_where('status', $op, $status)->find();
 //        $col_id = $col_id->id;
-
+        
 
 
         foreach ($info as $inf) {
@@ -440,6 +414,7 @@ class Model_Products extends ORM {
             $res['img_url_small'] = $img->img_url_small;
             $res['date'] = $inf->date;
             $res['status'] = $inf->status;
+            $res['brand_id'] = $inf->brand_id;
             $products[] = $res;
         }
         return $products;

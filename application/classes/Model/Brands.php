@@ -23,7 +23,7 @@ class Model_Brands extends ORM {
         }
         return $res;
     }
-    
+        
     public function seo($action) {
         $res = array();
         $s = ORM::factory('Pages')->where('translit', '=', $action)->find();

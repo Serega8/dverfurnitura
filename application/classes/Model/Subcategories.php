@@ -27,7 +27,8 @@ class Model_Subcategories extends ORM {
         $category = ORM::factory('Subcategories');
         $count = $category->where('sub_translit', '=', $l3)->and_where('status', '!=', '3')->find();
         $rus = null;
-        $rus = $count->sub_name;
+        //$rus = $count->sub_name;
+        $rus = $count->sub_translit;
         if ($rus) {
             return $rus;
         } else {

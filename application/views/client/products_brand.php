@@ -4,7 +4,9 @@
 <img src="<?=$brands['img_url'];?>">
 <?=$brands['descr'];?>
 <!--вывод информации о бренде-->
-
+<!--<pre>
+    <? //print_r($products); die; ?>
+</pre>-->
 <? if (!empty($products)) : ?>
     <? foreach ($categories as $k => $cat) { ?>
         <p class="category_name"><?//= $cat['name']; ?></p>
