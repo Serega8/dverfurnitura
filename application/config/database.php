@@ -6,53 +6,26 @@ return array
 	(
 		'type'       => 'MySQL',
 		'connection' => array(
-			/**
-			 * The following options are available for MySQL:
-			 *
-			 * string   hostname     server hostname, or socket
-			 * string   database     database name
-			 * string   username     database username
-			 * string   password     database password
-			 * boolean  persistent   use persistent connections?
-			 * array    variables    system variables as "key => value" pairs
-			 *
-			 * Ports and sockets may be appended to the hostname.
-			 */
 			'hostname'   => 'localhost',
-//			'username'   => 'root',
-//			'password'   => 'root',
-                        'database'   => 'magnific_main',
-//			'username'   => 'dverf_user',
-//			'password'   => 'BveKb6BK',
-                        'username'   => 'magnific_main',
-			'password'   => 'dverf_user',
+                        'database'   => 'dverf_main',
+                        'username'   => 'root',
+			'password'   => 'root',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',
 		'charset'      => 'utf8',
 		'caching'      => FALSE,
 	),
-	'alternate' => array(
-		'type'       => 'PDO',
+	'remote' => array
+	(
+		'type'       => 'MySQL',
 		'connection' => array(
-			/**
-			 * The following options are available for PDO:
-			 *
-			 * string   dsn         Data Source Name
-			 * string   username    database username
-			 * string   password    database password
-			 * boolean  persistent  use persistent connections?
-			 */
-			'dsn'        => 'mysql:host=localhost;dbname=kohana',
-			'username'   => 'root',
-			'password'   => 'r00tdb',
+			'hostname'   => 'localhost',
+                        'database'   => 'magnific_main',
+                        'username'   => 'magnific_main',
+			'password'   => 't7HztnOa',
 			'persistent' => FALSE,
 		),
-		/**
-		 * The following extra options are available for PDO:
-		 *
-		 * string   identifier  set the escaping identifier
-		 */
 		'table_prefix' => '',
 		'charset'      => 'utf8',
 		'caching'      => FALSE,

@@ -70,6 +70,7 @@ I18n::lang('en-us');
 if (isset($_SERVER['KOHANA_ENV'])) {
     Kohana::$environment = constant('Kohana::' . strtoupper($_SERVER['KOHANA_ENV']));
 }
+echo $_SERVER['HTTP_HOST'];
 
 /**
  * Initialize Kohana, setting the default options.
