@@ -19,11 +19,11 @@ return array
 			 * Ports and sockets may be appended to the hostname.
 			 */
 			'hostname'   => 'localhost',
-			'username'   => 'root',
-			'password'   => 'root',
-                        'database'   => 'dverf_main',
-//			'username'   => 'dverf_user',
-//			'password'   => 'BveKb6BK',
+//			'username'   => 'root',
+//			'password'   => 'root',
+                        'database'   => 'magnific_main',
+			'username'   => 'dverf_user',
+			'password'   => 'BveKb6BK',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',
