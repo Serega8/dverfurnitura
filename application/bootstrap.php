@@ -70,7 +70,6 @@ I18n::lang('en-us');
 if (isset($_SERVER['KOHANA_ENV'])) {
     Kohana::$environment = constant('Kohana::' . strtoupper($_SERVER['KOHANA_ENV']));
 }
-echo $_SERVER['HTTP_HOST'];
 
 /**
  * Initialize Kohana, setting the default options.
@@ -118,6 +117,12 @@ Kohana::modules(array(
         // 'userguide'  => MODPATH.'userguide',  // User guide and API documentation
 ));
 Cookie::$salt = 'dev_<bullet>_';
+
+
+if ($_SERVER['HTTP_HOST'] === 'magnificlocks.by' 
+        || $_SERVER['HTTP_HOST'] === 'www.magnificlocks.by')
+{Database::$default = 'remote';}
+
 /**
  * Set the routes. Each route must have a minimum of a name, a URI and a set of
  * defaults for the URI.
